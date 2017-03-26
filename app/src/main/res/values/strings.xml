@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CollapsingToolBar</string>
+    <string name="android">
+
+
+        Androids source code is released by Google under an open source license, although most Android devices ultimately ship with a combination of free and open source and proprietary software, including proprietary software required for accessing Google services. Android is popular with technology companies that require a ready-made, low-cost and customizable operating system for high-tech devices. Its open nature has encouraged a large community of developers and enthusiasts to use the open-source code as a foundation for community-driven projects, which deliver updates to older devices, add new features for advanced users or bring Android to devices originally shipped with other operating systems. Historically, Androids platform fragmentation caused issues with security, in which the majority of Android devices did not receive security patches, but recent developments have improved the situation. The success of Android has made it a target for patent and copyright litigation as part of the so-called "smartphone wars" between technology companies.
+
+    </string>
+</resources>
