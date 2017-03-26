@@ -1,6 +1,5 @@
 # CollapsingToolBar
-Android collapsing toolbar
-And a little information about our favorite android.
+Android collapsing toolbar αnd a little information about our favorite android.
 
 
 ![screenshot_20170326-232653](https://cloud.githubusercontent.com/assets/21143253/24334977/5f92f3b0-127d-11e7-9191-6fdc2d6701e2.png)
